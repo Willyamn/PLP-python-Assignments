@@ -80,3 +80,36 @@ Error handling (try-except)
 Loops & menus
 
 String manipulation (uppercase, lowercase, reverse, line numbering)
+
+# Week 5 Assignment
+# file name: Week5Assignment.py
+
+Activity 1: Smartphone Class
+- Create and manage smartphones with attributes like brand, model, storage, and battery.  
+- Encapsulation is used with protected attributes.  
+- Inheritance shown with a `GamingPhone` subclass that adds GPU features.  
+
+---
+
+Activity 2: Polymorphism Challenge
+- Implemented a `Vehicle` base class with a `move()` method.  
+- Subclasses `Car`, `Plane`, `Boat`, and `Bicycle` override `move()` differently.  
+- Demonstrates **polymorphism**: the same method name behaves differently depending on the object.
+
+  Choose an option from the menu:
+  - Smartphone Demo
+  - Polymorphism Demo
+  - Exit
+    
+Concepts Covered
+
+Classes & Objects – Defining custom data types.
+
+Constructors (__init__) – Initializing objects with unique values.
+
+Encapsulation – Using protected attributes and getters/setters.
+
+Inheritance – Extending functionality of parent classes.
+
+Polymorphism – Same method name, different behaviors.
+
